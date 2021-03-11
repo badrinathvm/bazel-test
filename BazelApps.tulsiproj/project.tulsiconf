@@ -1,0 +1,13 @@
+{
+  "configDefaults" : {
+    "optionSet" : {
+
+    }
+  },
+  "projectName" : "AppA",
+  "packages" : [
+    "AppA-iOS",
+    "Lib-Swift"
+  ],
+  "workspaceRoot" : ".."
+}
